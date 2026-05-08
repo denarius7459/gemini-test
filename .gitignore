@@ -31,3 +31,6 @@ __pycache__/
 *.log
 dist/
 build/
+
+# Project Specific Documents
+docs/한국투자증권 API문서/
