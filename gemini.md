@@ -3,8 +3,9 @@
 This file contains system-level settings and instructions for the Gemini CLI agent within this project.
 
 ## Project Context
-- **Name:** GITHUB_MCP
-- **Purpose:** Practice Git and GitHub usage.
+- **Name:** K-Stock-AutoTrader
+- **Purpose:** Python 기반 대한민국 주식 시장 자동 투자 프로그램 개발 및 운영 연습.
+- **Tech Stack:** Python, 주요 증권사 API (예: 한국투자증권, 키움증권 등), TDD.
 
 ## Conventions
 - **Commit Messages:** Follow `doc/COMMIT_CONVENTION.md`.
